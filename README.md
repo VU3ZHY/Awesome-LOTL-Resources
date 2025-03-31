@@ -1,5 +1,9 @@
 # Awesome-LOTL-Resources
 A collections of verity of Living Off The Land Binaries, Scripts and Libraries.
+<p align="center">
+	<img src="https://awesome.re/badge.svg" alt="Awesome">
+</p>
+
 A curated list of resources related to "Living Off the Land" (LOTL) techniques and similar security concepts. LOTL refers to attack methods that leverage legitimate system tools and processes to conduct malicious activities, making detection more challenging. This repository aims to provide a comprehensive collection of catalogs, tools, and techniques that cybersecurity professionals—such as researchers, red teamers, and defenders—can use to understand and mitigate LOTL-based attacks.
 
 
