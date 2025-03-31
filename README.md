@@ -152,7 +152,7 @@ Contributions to improve descriptions or correct errors are also appreciated!
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Feel free to share and adapt, provided you give appropriate credit.
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en). Feel free to share and adapt, provided you give appropriate credit.
 
 ---
 
