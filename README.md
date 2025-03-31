@@ -1,5 +1,6 @@
 # Awesome-LOTL-Resources
-A collections of verity of Living Off The Land Binaries, Scripts and Libraries.
+<p align="center">A collections of verity of Living Off The Land Binaries, Scripts and Libraries.</p>
+
 <p align="center">
 	<img src="https://awesome.re/badge.svg" alt="Awesome">
 </p>
